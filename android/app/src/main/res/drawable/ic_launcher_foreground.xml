@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shopping Bag Handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 46,42 C 46,31 62,31 62,42" />
+
+    <!-- Shopping Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 37.5,41.5 L 70.5,41.5 C 72,41.5 73,42.5 73.2,44 L 75.8,75.5 C 76,77.5 74.5,79.5 72.5,79.5 L 35.5,79.5 C 33.5,79.5 32,77.5 32.2,75.5 L 34.8,44 C 35,42.5 36,41.5 37.5,41.5 Z" />
+
+    <!-- Bag Top Opening Curve (Negative Space in Background Green) -->
+    <path
+        android:fillColor="#008060"
+        android:pathData="M 45,41.5 C 47,48 61,48 63,41.5 Z" />
+
+    <!-- Minimalist Storefront Mark -->
+    <path
+        android:strokeColor="#008060"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 47,57 L 54,51.5 L 61,57" />
+
+    <path
+        android:fillColor="#008060"
+        android:pathData="M 49,59 L 59,59 L 59,68 L 49,68 Z" />
+</vector>
